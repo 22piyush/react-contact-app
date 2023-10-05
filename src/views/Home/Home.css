@@ -1,0 +1,20 @@
+.app-title{
+    text-align: center;
+    color: #e65c00;
+    font-size: 18px;
+}
+body{
+    background-color: #fff0e6;
+}
+
+.add-contact-container{
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    font-size: 15px;
+}
+.app-body{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
